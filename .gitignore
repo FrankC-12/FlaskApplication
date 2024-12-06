@@ -1,0 +1,9 @@
+#Entorno virtual
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Creado por Python en ejecución
+*.pyc
+*.pyo
